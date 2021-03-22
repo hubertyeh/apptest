@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Robort</string>
+    <string name="yellow_star">a yellow star</string>
+    <string name="context">Data-Flow models are attracting renewed attention because they lend themselves to efficient mapping on multi-core architectures. The key problem of finding a maximum-throughput allocation and scheduling of Synchronous Data-Flow graphs (SDFGs) onto a multi-core architecture is NP-hard and has been traditionally solved by means of heuristic (incomplete) algorithms with no guarantee of global optimality. In this paper we propose an exact (complete) algorithm for the computation of a maximum-throughput mapping of applications specified as SDFG onto multi-core architectures. This is, to the best of our knowledge, the first complete algorithm for generic SDF graphs, including those with loops and a finite iteration bound. Our approach is based on Constraint Programming, it guarantees optimality and can handle realistic instances in terms of size and complexity. Extensive experiments on a large number of SDFGs demonstrate that our approach is effective and robust.</string>
+</resources>
